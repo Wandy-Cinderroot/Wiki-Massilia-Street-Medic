@@ -1,16 +1,29 @@
 ---
 title: Mode d'emploi
 description:
-not_in_nav: "true"
+not_in_nav: "false"
 ---
-Lire les pages  
-Imprimer les fiches résumés et les afficher chez soi  
-Chercher des éléments quand vous avez des doutes 
-```
-Get-ChildItem -Path . -Filter "0-index.md" -Recurse -File |
-    Rename-Item -NewName "index.md"
-```
 
-This renames every `index.md` to `0-index.md` in all subdirectories.
-
-Note: Check that no directory already contains a `0-index.md` file, to avoid naming conflicts.
+???+ description "Description"
+	!!! warning "Temporaire"
+	    - Lire les pages  
+        - Imprimer les fiches résumés et les afficher chez soi  
+        - Chercher des éléments quand vous avez des doutes 
+??? contenu " Contenu"
+	!!! warning "Temporaire"
+		- {{}}
+	
+??? sources "Sources"
+	=== "Sources"
+		| nom | description |
+		| --- | --- |
+		| {{[Source 1](https://fr.wikipedia.org/wiki/Test)}} | {{Lorem ipsum dolor sit amet, consectetur adipiscing elit.}} |
+		| {{[Source 2](https://fr.wikipedia.org/wiki/Test)}} | {{Lorem ipsum dolor sit amet, consectetur adipiscing elit.}} |
+	=== "Statut"
+		| nom | description |
+		| --- | --- |
+		| Dernière vérification | {{XXXX/XX/XX}} |
+		| Statut | {{statut}} |
+	=== "Contributeur.ice.s"
+		- {{Contributeur.ice 1}}
+		- {{Contributeur.ice 2}}

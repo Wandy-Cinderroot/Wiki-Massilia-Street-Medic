@@ -1,0 +1,31 @@
+---
+title: "{{ item.titre }}"
+description: "{{ item.resume }}"
+---
+
+{{ item.resume }}
+
+???+ description "Description"
+	{{ item.description }}
+
+??? contenu "Contenu"
+    - {{ item.contenu }}
+	
+??? sources "Sources"
+	=== "Sources"
+		| nom | description |
+		| --- | --- |
+		| [{{ item.sources.nom }}]({{ item.sources.lien }}) | {{ item.sources.description }} |
+
+	=== "Statut"
+		| nom | description |
+		| --- | --- |
+		| Dernière vérification | {{item.date_verif}} |
+		| Statut | {{item.statut}} |
+
+	=== "Contributeur.ice.s"
+		- {{ item.contributeur }}
+		- {{ item.contributeur }}
+
+??? extra "Extras"
+	- {{ item.extras.nom }}: {{ item.extras.description }}

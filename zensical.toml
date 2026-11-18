@@ -1,6 +1,6 @@
 [project]
-site_url = "https://www.streetmedicmarseille.com/"
-site_name = "Street Medic Marseille"
+site_url = "https://www.massilia-street-medic.com/"
+site_name = "Massilia Street Medic"
 # site_description = "Your project description"
 # site_author = "Your name"
 
@@ -14,11 +14,12 @@ site_name = "Street Medic Marseille"
 nav = [
     { "Démarrer" = [
         "0-demarrer/index.md",
-        { "Parcours" = [
-            "0-demarrer/1-parcours/index.md",
-        ] },
         { "Mode d'emploi" = [
-            "0-demarrer/2-mode-d-emploi/index.md",
+            "0-demarrer/1-mode-d-emploi/index.md",
+        ] },
+        { "Parcours" = [
+            "0-demarrer/2-parcours/index.md",
+            "0-demarrer/2-parcours/1-relation-entre-categories.md"
         ] },
     ] },
     { "Reconnaître" = [
@@ -136,7 +137,7 @@ features = [
   "content.tabs.link",
   "content.tooltips",
   # "header.autohide",
-  "navigation.expand",
+  # "navigation.expand",
   "navigation.footer",
   "navigation.indexes",
   "navigation.instant",
@@ -192,6 +193,7 @@ abbr = {}
 admonition = {}
 attr_list = {}
 def_list = {}
+
 footnotes = {}
 md_in_html = {}
 toc.permalink = true
@@ -217,3 +219,10 @@ pymdownx.tabbed.alternate_style = true
 pymdownx.tabbed.combine_header_slug = true
 pymdownx.tasklist.custom_checkbox = true
 pymdownx.tilde = {}
+
+[project.theme.icon.admonition]
+defaut = "lucide/minus"
+description = "lucide/info"
+contenu = "lucide/table-of-contents"
+sources = "lucide/quote"
+extra = "lucide/star-plus"

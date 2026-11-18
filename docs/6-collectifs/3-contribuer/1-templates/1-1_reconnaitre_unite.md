@@ -11,7 +11,7 @@ description: Brève description de la page
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur ipsum dolor, malesuada posuere nulla venenatis vel. Aliquam tristique justo lacus, nec feugiat nisl ullamcorper id. Aliquam ut sem neque.
 
 
-??? abstract "Description"
+??? description "Description"
 	<div class="infobox" markdown>
 	**Infos**
 
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur ipsum
 	??? note "Fonctionnement"
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur ipsum dolor, malesuada posuere nulla venenatis vel. Aliquam tristique justo lacus, nec feugiat nisl ullamcorper id. Aliquam ut sem neque. Sed non nulla eget erat egestas faucibus ut eget turpis. Ut pretium sagittis lacus, sed sagittis orci scelerisque eget. Phasellus placerat ex vel tempor rhoncus. Aliquam quis luctus nisi. 
 
-??? note "Equipements"
+??? defaut "Equipements"
 	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur ipsum dolor, malesuada posuere nulla venenatis vel.
 	=== "Tenues"
 		| nom    | image                        |

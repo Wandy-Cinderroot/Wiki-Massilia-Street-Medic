@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur ipsum
 
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur ipsum dolor, malesuada posuere nulla venenatis vel. Aliquam tristique justo lacus, nec feugiat nisl ullamcorper id. Aliquam ut sem neque.
 
-??? quote "Sources"
+??? sources "Sources"
 	- Sources: 
 	- Dernière vérification: 
 	- Statut: 

@@ -128,3 +128,39 @@
 .md-typeset details {
   clear: both;
 }
+
+/* Admonitions */
+.md-typeset .admonition.defaut > .admonition-title::before,
+.md-typeset details.defaut > summary::before {
+  background-color: rgba(255, 255, 255, 0.5);
+  -webkit-mask-image: var(--md-admonition-icon--defaut);
+  mask-image: var(--md-admonition-icon--defaut);
+}
+
+.md-typeset .admonition.description > .admonition-title::before,
+.md-typeset details.description > summary::before {
+  background-color: rgba(255, 255, 255, 0.5);
+  -webkit-mask-image: var(--md-admonition-icon--description);
+  mask-image: var(--md-admonition-icon--description);
+}
+
+.md-typeset .admonition.contenu > .admonition-title::before,
+.md-typeset details.contenu > summary::before {
+  background-color: rgba(255, 255, 255, 0.5);
+  -webkit-mask-image: var(--md-admonition-icon--contenu);
+  mask-image: var(--md-admonition-icon--contenu);
+}
+
+.md-typeset .admonition.sources > .admonition-title::before,
+.md-typeset details.sources > summary::before {
+  background-color: rgba(255, 255, 255, 0.5);
+  -webkit-mask-image: var(--md-admonition-icon--sources);
+  mask-image: var(--md-admonition-icon--sources);
+}
+
+.md-typeset .admonition.extra > .admonition-title::before,
+.md-typeset details.extra > summary::before {
+  background-color: rgba(255, 255, 255, 0.5);
+  -webkit-mask-image: var(--md-admonition-icon--extra);
+  mask-image: var(--md-admonition-icon--extra);
+}
