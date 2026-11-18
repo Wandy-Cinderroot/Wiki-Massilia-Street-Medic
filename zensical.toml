@@ -1,13 +1,11 @@
 [project]
 site_url = "https://www.massilia-street-medic.com/"
 site_name = "Massilia Street Medic"
-# site_description = "Your project description"
-# site_author = "Your name"
-
+site_description = "Wiki Massilia Street Medic"
+site_author = "Mi-Go"
 # copyright = "Copyright &copy; 2026 Your name"
-
-# repo_url = "https://github.com/user/repo"
-# repo_name = "user/repo"
+repo_url = "https://github.com/Wandy-Cinderroot/Wiki-Massilia-Street-Medic"
+repo_name = "Wiki-Massilia-Street-Medic"
 # edit_uri = "edit/main/docs/"
 
 

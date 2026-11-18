@@ -1,0 +1,10 @@
+name: Ajouter une section
+description: Formulaire d'ajout de section
+body:
+  - type: input
+    id: titre
+    attributes:
+      label: Titre de la section
+      placeholder: à remplir
+    validations:
+      required: true

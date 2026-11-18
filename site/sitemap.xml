@@ -64,6 +64,18 @@
         <loc>https://www.massilia-street-medic.com/3-secourir/</loc>
       </url>
       <url>
+        <loc>https://www.massilia-street-medic.com/3-secourir/1-evaluer/</loc>
+      </url>
+      <url>
+        <loc>https://www.massilia-street-medic.com/3-secourir/2-proteger/</loc>
+      </url>
+      <url>
+        <loc>https://www.massilia-street-medic.com/3-secourir/3-alerter/</loc>
+      </url>
+      <url>
+        <loc>https://www.massilia-street-medic.com/3-secourir/4-prise-en-charge/</loc>
+      </url>
+      <url>
         <loc>https://www.massilia-street-medic.com/4-agir/</loc>
       </url>
       <url>
@@ -100,19 +112,22 @@
         <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/</loc>
       </url>
       <url>
-        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/1-templates/1-1_reconnaitre_unite/</loc>
+        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/3-wiki/</loc>
       </url>
       <url>
-        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/1-templates/1-2_reconnaitre_arme-de-contact/</loc>
+        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/3-wiki/1-1_reconnaitre_unite/</loc>
       </url>
       <url>
-        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/1-templates/1-3_reconnaitre_munition/</loc>
+        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/3-wiki/1-2_reconnaitre_arme-de-contact/</loc>
       </url>
       <url>
-        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/1-templates/1-4_reconnaitre_lanceur/</loc>
+        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/3-wiki/1-3_reconnaitre_munition/</loc>
       </url>
       <url>
-        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/1-templates/1-5_reconnaitre_vehicule/</loc>
+        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/3-wiki/1-4_reconnaitre_lanceur/</loc>
+      </url>
+      <url>
+        <loc>https://www.massilia-street-medic.com/6-collectifs/3-contribuer/3-wiki/1-5_reconnaitre_vehicule/</loc>
       </url>
       <url>
         <loc>https://www.massilia-street-medic.com/stylesheets/infobox/</loc>

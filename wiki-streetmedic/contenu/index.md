@@ -6,7 +6,7 @@ status: draft
 # Par où commencer
 - [Soigner](soigner/index.md): une personne est blessée
 - [Reconnaître](Street%20Medic%20Marseille/Wiki-Street-Medic-Marseille/wiki-streetmedic/contenu/reconnaitre/index.md): comprendre ce qu'on a en face
-- [Se protéger](proteger/index.md): équipement et bonnes pratiques
+- [Se protéger](Street%20Medic%20Marseille/Wiki-Street-Medic-Marseille/wiki-streetmedic/contenu/proteger/index.md): équipement et bonnes pratiques
 - [S'organiser](Street%20Medic%20Marseille/Wiki-Street-Medic-Marseille/wiki-streetmedic/contenu/organiser/index.md): avant, pendant, après l'action
 - [Se former](Street%20Medic%20Marseille/Wiki-Street-Medic-Marseille/wiki-streetmedic/contenu/former/index.md): parcours de formation
 - [Contribuer](Street%20Medic%20Marseille/Wiki-Street-Medic-Marseille/wiki-streetmedic/contenu/contribuer/index.md): ajouter ou corriger une page
